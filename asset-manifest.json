@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Shopify-Front-End-Challange-2022/static/css/main.d86c91e7.css",
+    "main.js": "/Shopify-Front-End-Challange-2022/static/js/main.50b153ab.js",
+    "index.html": "/Shopify-Front-End-Challange-2022/index.html",
+    "main.d86c91e7.css.map": "/Shopify-Front-End-Challange-2022/static/css/main.d86c91e7.css.map",
+    "main.50b153ab.js.map": "/Shopify-Front-End-Challange-2022/static/js/main.50b153ab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d86c91e7.css",
+    "static/js/main.50b153ab.js"
+  ]
+}
