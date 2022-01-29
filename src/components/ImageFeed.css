@@ -1,0 +1,49 @@
+.PostContainer{
+  display: flex;
+  flex-direction: column;
+}
+.TempCard{
+  margin: auto;
+  margin-top: 1rem;
+  width: 60%;
+}
+.ImagePlaceHolder{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 1rem;
+  height: 60vh;
+  background-color: rgb(222, 222, 231);
+}
+.PlaceHolderOne{
+  width: 69.9%;
+}
+.PlaceHolderTwo{
+  width: 29.5%;
+}
+.PlaceHolderThree{
+  width: 100%;
+}
+.PlaceHolderFour{
+  width: 8%;
+}
+.PlaceHolderFive{
+  width: 25%;
+}
+.ButtonPlaceHoder{
+  width: 60px;
+}
+.Card{
+  margin: auto;
+  margin-top: 1rem;
+  width: 60%;
+}
+
+@media (max-width: 768px) {
+  .TempCard{
+    width: 100%;
+  }
+  .Card{
+    width: 100%;
+  }
+}

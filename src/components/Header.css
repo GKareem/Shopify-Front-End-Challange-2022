@@ -1,0 +1,44 @@
+.Container {
+  display: flex;
+  justify-content: center;
+  background-color: rgb(180, 180, 180);
+  top: 0;
+}
+.FormGroup {
+  margin-top: 0.5%;
+  margin-bottom: 0.5%;
+  margin-right: 0.5%;
+}
+.Button {
+  margin-top: 0.5%;
+  margin-bottom: 0.5%;
+}
+.Alert {
+  margin-top: 0.5%;
+  margin-bottom: 0.5%;
+  text-align: center;
+}
+.DivAlert {
+  margin-left: 0.5%;
+}
+
+@media (max-width: 768px) {
+  .Container {
+    display: block;
+  }
+  .FormGroup {
+    width: 100vw;
+    margin-top: 1%;
+  }
+  .Button {
+    width: 100%;
+    margin-bottom: 1%;
+  }
+  .Alert{
+    margin: auto;
+    margin-bottom: 1%;
+  }
+  .DivAlert {
+    margin: auto;
+  }
+}
