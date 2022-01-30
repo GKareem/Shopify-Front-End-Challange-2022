@@ -2,7 +2,7 @@
 
 This project was created with the React library with the help of React-Bootstrap (https://react-bootstrap.github.io/) and some custom CSS styling.
 
-Powered by APOD (GitHub: https://github.com/nasa/apod-api) ones of NASA's APIs (https://api.nasa.gov/) which has a new astronomy picture of the day since 1995-06-16, you can see the picture of the day at https://apod.nasa.gov/apod/astropix.html. 
+Powered by APOD (https://github.com/nasa/apod-api) ones of NASA's APIs (https://api.nasa.gov/) which has a new astronomy picture of the day since 1995-06-16, you can see the picture of the day at https://apod.nasa.gov/apod/astropix.html. 
 
 The website created here allows you to select two different days, and the website will display all the pictures and respective information for each of those days between the slected region, you are also able to like and unlike the following picture (the status of the like button does not save yet).
 
