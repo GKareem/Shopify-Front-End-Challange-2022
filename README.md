@@ -1,6 +1,6 @@
 # Shopify Front End Challange 2022
 
-This project was created with the React library with the help of Reac-Bootstrap (https://react-bootstrap.github.io/) and some custom CSS styling.
+This project was created with the React library with the help of React-Bootstrap (https://react-bootstrap.github.io/) and some custom CSS styling.
 
 Powered by APOD (GitHub: https://github.com/nasa/apod-api) ones of NASA's APIs (https://api.nasa.gov/) which has a new astronomy picture of the day since 1995-06-16, you can see the picture of the day at https://apod.nasa.gov/apod/astropix.html. 
 
